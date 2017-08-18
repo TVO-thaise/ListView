@@ -9,7 +9,7 @@ import android.widget.TextView;
  * Created by Samsung on 17/08/2017.
  */
 
-public class Main2Activity extends Activity {
+public class MainActivity2 extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
